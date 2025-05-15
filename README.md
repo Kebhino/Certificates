@@ -9,10 +9,10 @@ Here you'll find the most important courses I’ve completed, grouped by topic a
 
 | Course | Certificate |
 |--------|-------------|
-| 🧱 The Ultimate HTML Course – Fundamentals | [📄 View Certificate](./the-ultimate-html-course-fundamentals.pdf) |
-| 🎯 The Ultimate HTML Course – Advanced Concepts | [📄 View Certificate](./the-ultimate-html-course-advanced-concepts.pdf) |
-| 🎨 The Ultimate HTML Course – PSD to HTML | [📄 View Certificate](./the-ultimate-html-course-psd-to-html.pdf) |
-| 💡 The Ultimate HTML5 & CSS3 Series – Part 3 | [📄 View Certificate](./the-ultimate-html5-css3-series-part-3.pdf) |
+| 🧱 The Ultimate HTML Course Part 1 – Fundamentals | [📄 View Certificate](./the-ultimate-html-course-fundamentals.pdf) |
+| 🎯 The Ultimate HTML Course Part 2– Advanced Concepts | [📄 View Certificate](./the-ultimate-html-course-advanced-concepts.pdf) |
+| 🎨 The Ultimate HTML Course Part 3 – PSD to HTML | [📄 View Certificate](./the-ultimate-html-course-psd-to-html.pdf) |
+| 💡 The Ultimate HTML5 & CSS3 Series  | [📄 View Certificate](./the-ultimate-html5-css3-series-part-3.pdf) |
 
 ---
 
