@@ -31,6 +31,19 @@ Here you'll find the most important courses I’ve completed, grouped by topic a
 |--------|-------------|
 | ⚛️ React 18 for Beginners | [📄 View Certificate](./certificate-of-completion-for-react-18-for-beginners.pdf) |
 
+
+---
+
+## 🟦 TypeScript Courses
+
+| Course | Certificate |
+|--------|-------------|
+| 🧾 The Ultimate TypeScript Course | [📄 View Certificate](https://github.com/Kebhino/Certificates/blob/main/The-ultimate-type-script-course.pdf) |
+
+
+
+
+
 ---
 
 ## 🗂️ About
